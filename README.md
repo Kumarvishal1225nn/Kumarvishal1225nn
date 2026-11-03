@@ -60,13 +60,6 @@
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=Kumarvishal1225nn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Kumarvishal1225nn&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ### 📅 Contribution graph
 
 <p align="center">
