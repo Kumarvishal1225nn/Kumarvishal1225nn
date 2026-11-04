@@ -56,7 +56,7 @@
 | 📰 [**Fake News Detection**](https://github.com/Kumarvishal1225nn/Fake-news-Detection) | Detects fake news articles with NLP classification | Python · NLP |
 | ❤️ [**Heart Disease Prediction**](https://github.com/Kumarvishal1225nn/-heart-disease-prediction-using-machine-learning-with-flask) | ML model served through a Flask web app | Python · Flask |
 | 🎙️ [**Gender Recognition by Voice**](https://github.com/Kumarvishal1225nn/Gender-recognition-using-voice) | Classifies speaker gender from acoustic features | Python · ML |
-| 🌐 [**Portfolio Website**](https://github.com/Kumarvishal1225nn/data-scienc-porfolio) | My personal portfolio site | Next.js · TypeScript |
+| 🌐 [**Portfolio Website**](https://vishal-portfolio-lime-ten.vercel.app/) | My personal portfolio site | Next.js · TypeScript |
 
 ---
 
